@@ -44,3 +44,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = TimeZoneClockApp(root)
     root.mainloop()
+    git clone https://github.com/Hussain78605/Time-Zone-Clock.git
+cd Time-Zone-Clock
